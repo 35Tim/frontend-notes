@@ -1,2 +1,3 @@
-# frontend-learning-notes
-前端学习笔记
+# frontend-notes
+
+前端笔记
